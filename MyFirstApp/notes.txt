@@ -1,0 +1,14 @@
+First of all thank you for visiting my Github for seeing my application
+
+This is simple application using KivyMD,
+The android application I made is static in nature,
+
+You can Install application from the folder,
+I haven't installed any malware into it but play protect will find it as unknown or harmful,
+
+
+Credits:
+Python - For their platform
+KivyMD - For such a wonderful creation
+Buildozer - For Making conversion to android and ios easier
+Google Colab - For helping me in converting the .py to .apk
